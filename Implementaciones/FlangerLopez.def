@@ -1,0 +1,4 @@
+LIBRARY FLANGERLOPEZ
+EXPORTS
+VSTPluginMain
+main=VSTPluginMain
